@@ -263,3 +263,5 @@ CREATE TABLE Employers (
     Family BIT,
     Health NVARCHAR(50)
 );
+
+Scaffold-DbContext "СЮДА ТВОЮ СТРОКУБ ВВОДИТЬ В КОНСОЛЬ ДИСПЕЧЕРА ПАКЕТОВ" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
